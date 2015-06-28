@@ -1,0 +1,5 @@
+﻿JAVA_HOME 变量值：D:\Program Files\Java\jdk1.6.0_24
+
+CLASSPATH 变量值：.;%JAVA_HOME%\lib 
+
+Path 在变量值的最前面加上：%JAVA_HOME%\bin;
